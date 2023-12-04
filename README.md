@@ -14,3 +14,9 @@
 3. docker exec -it my-mysql-container mysql -u root -p // 접속 및 확인방법
 
 ```
+
+# create database
+```
+1. CREATE DATABASE db_example;
+
+```
